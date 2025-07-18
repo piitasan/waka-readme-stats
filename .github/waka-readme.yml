@@ -1,0 +1,11 @@
+github_token: ${{ secrets.GH_TOKEN }}
+waka_time_api_key: ${{ secrets.WAKATIME_API_KEY }}
+show_title: true
+show_time: true
+show_total: true
+show_masked_time: true
+theme: dark
+timezone: Asia/Manila
+username: piitasan
+commit_message: 📊 Updated WakaTime stats
+max_languages: 10
